@@ -6,5 +6,7 @@
 # Code and Resources Used
 
 **Python Version:** 3.8 
+
 **Packages:** numpy, pandas, matplotlib, seaborn, sci-kit learn, tensorflow (Sequential) 
+
 **Data:** https://www.kaggle.com/wordsforthewise/lending-club
